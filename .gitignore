@@ -1,0 +1,28 @@
+Individual PDFs/
+Extra Examples/
+Testing Files/
+TeamList.xlsx
+~$Pdf_Data.xlsx
+FD 60-90 PDFs/
+_pycache_/
+.idea/
+__pycache__/
+Private Key.ppk
+Public Key
+Structural Drawings 90%/
+Workflow.vsdx
+build/
+dist/
+Run_Setup_Config_File.spec
+Run_Setup_and_Analysis.spec
+package config.bat
+package setup.bat
+package setup w-spec.bat
+Abandoned/
+debug.log
+studioDL/
+env/
+AWS/markuptracker.pem
+Logs/SQL_save_errors.txt
+venv/
+Scripts/SQL_Config.csv
